@@ -9,9 +9,7 @@ body{
     padding: 30px;
 }
 
-main {
-    color: rgb(0, 0, 0);
-}
+
 
 header{
     background-color: beige;
@@ -33,10 +31,19 @@ li{
 }
 
 header li{
-    margin: 20px;
+    margin: 30px;
+    
 }
 
 header li a{
     color: black;
     text-decoration: none;
+    
+}
+
+
+
+main {
+    color: rgb(0, 0, 0);
+    
 }
