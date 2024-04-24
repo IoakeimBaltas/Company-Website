@@ -1,0 +1,42 @@
+h1{
+    color:turquoise;
+}
+
+
+body{
+    height: 125vh;
+    margin-top: 80px;
+    padding: 30px;
+}
+
+main {
+    color: rgb(0, 0, 0);
+}
+
+header{
+    background-color: beige;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    flex-direction: row;
+}   
+
+li{
+    display:inline;
+    text-align: center;
+
+}
+
+header li{
+    margin: 20px;
+}
+
+header li a{
+    color: black;
+    text-decoration: none;
+}
