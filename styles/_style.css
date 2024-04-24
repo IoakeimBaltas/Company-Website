@@ -12,7 +12,7 @@ body{
 
 
 header{
-    background-color: beige;
+    background-color: rgb(255, 204, 234);
     position: fixed;
     top: 0;
     left: 0;
@@ -33,6 +33,7 @@ li{
 header li{
     margin: 30px;
     
+        
 }
 
 header li a{
@@ -46,4 +47,18 @@ header li a{
 main {
     color: rgb(0, 0, 0);
     
+
 }
+#first{
+    color:blueviolet;
+    
+}
+#gecko {
+    border: 1px solid red;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    }
+    a {
+    height: 0px;
+    }
